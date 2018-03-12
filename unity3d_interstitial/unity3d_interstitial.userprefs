@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{05E025E1-FD6A-3B2F-84B2-BA96690D0662}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_SpaceShooter/_UtilsScripts/Ads.cs">
+    <Files>
+      <File FileName="Assets/_SpaceShooter/Scripts/Done_GameController.cs" Line="125" Column="34" />
+      <File FileName="Assets/_SpaceShooter/_UtilsScripts/Ads.cs" Line="122" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

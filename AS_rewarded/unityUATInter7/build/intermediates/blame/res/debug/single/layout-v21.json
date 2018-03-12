@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/layout-v21/exomedia_default_controls_leanback.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/layout-v21/exomedia_default_controls_leanback.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ee600580b26a502f514a90db85c27f13c1c53e7d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ee600580b26a502f514a90db85c27f13c1c53e7d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ee600580b26a502f514a90db85c27f13c1c53e7d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ee600580b26a502f514a90db85c27f13c1c53e7d/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

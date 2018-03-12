@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/customevent.js",
+        "source": "/Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res/raw/customevent.js"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/per_pixel_fragment_shader.glsl",
+        "source": "/Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/res/raw/per_pixel_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/sphere.obj",
+        "source": "/Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/res/raw/sphere.obj"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/per_pixel_vertex_shader.glsl",
+        "source": "/Users/souravbanik/.android/build-cache/aca0207cc2670c1e643df0536fc245d882ad2553/output/res/raw/per_pixel_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/vdo_vast.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res/raw/vdo_vast.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/vdo_inter.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res/raw/vdo_inter.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/raw/mraid.js",
+        "source": "/Users/souravbanik/.android/build-cache/ac0cb32b34b147f75660e6424a1f4fffcc687079/output/res/raw/mraid.js"
+    }
+]

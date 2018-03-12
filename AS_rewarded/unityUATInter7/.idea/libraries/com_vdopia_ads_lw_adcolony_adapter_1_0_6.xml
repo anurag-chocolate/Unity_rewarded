@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.vdopia.ads.lw:adcolony-adapter-1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/50ba87d4a450f7ac37e711fdf82c1a600387fb5b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/50ba87d4a450f7ac37e711fdf82c1a600387fb5b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

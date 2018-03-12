@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/bc8ccdd21d876813dadcfd897bfed85f8fd790d6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/drawable-v21/exomedia_leanback_ripple_selector.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable-v21/exomedia_leanback_ripple_selector.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/bc8ccdd21d876813dadcfd897bfed85f8fd790d6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/souravbanik/.android/build-cache/bc8ccdd21d876813dadcfd897bfed85f8fd790d6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/souravbanik/.android/build-cache/ee600580b26a502f514a90db85c27f13c1c53e7d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/souravbanik/Downloads/unity_interstitial/AS_rewarded/unityUATInter7/build/intermediates/res/merged/debug/drawable-v21/exomedia_leanback_progress_horizontal.xml",
+        "source": "/Users/souravbanik/.android/build-cache/059c1909429b4c4db87c8f3e841de9c45b6a6c77/output/res/drawable-v21/exomedia_leanback_progress_horizontal.xml"
+    }
+]
